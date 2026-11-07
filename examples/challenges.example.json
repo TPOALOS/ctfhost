@@ -1,0 +1,31 @@
+[
+  {
+    "id": "warmup",
+    "title": "Warm-up",
+    "category": "misc",
+    "description": "Every CTF starts here. The flag format is flag{...}.\nThe flag for this example challenge is: flag{example_warmup_not_a_real_flag}",
+    "points": 100,
+    "min_points": 100,
+    "flag": "flag{example_warmup_not_a_real_flag}"
+  },
+  {
+    "id": "base-camp",
+    "title": "Base camp",
+    "category": "crypto",
+    "description": "Decode this: ZmxhZ3tleGFtcGxlX2Jhc2VjYW1wX25vdF9yZWFsfQ==",
+    "points": 300,
+    "min_points": 100,
+    "decay": 25,
+    "flag": "flag{example_basecamp_not_real}"
+  },
+  {
+    "id": "from-hash",
+    "title": "Published as a hash",
+    "category": "forensics",
+    "description": "This challenge stores only the SHA-256 of the flag, so the challenge file can be shared publicly. (For this example the flag is flag{example_hashed_not_real}.) Create a digest with: ctfhost hash-flag",
+    "points": 500,
+    "min_points": 150,
+    "decay": 20,
+    "flag_sha256": "413eba1f5794277a690e4d38f203fd1e61d33b67b96a9f0ab8646068373d5a90"
+  }
+]

@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+build/
+dist/
+.env
+
+# ctfhost runtime data and private challenge files
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+challenges.json
+challenges.private.json
