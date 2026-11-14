@@ -147,3 +147,7 @@ python3 -m unittest -v
 ## License
 
 MIT (c) TPOALOS
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [pocketledger](https://github.com/TPOALOS/pocketledger) · [hostguard](https://github.com/TPOALOS/hostguard) · [portlens](https://github.com/TPOALOS/portlens) · [all 51 tools](https://tpoalos.github.io)
